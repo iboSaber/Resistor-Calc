@@ -4,9 +4,9 @@
 
 int main() {
 	
-		char interface[][30]= 
+	char interface[][30]= 
 {
-"\n         Colors        ",
+"\n       Colors        ",
 "\n*------------------*",    
 "\n|0         BLACK|",   
 "\n|1         BROWN|",
