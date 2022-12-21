@@ -11,9 +11,7 @@
 
 ## 1- Calculating the Resistance Value :
 
-### 4 band Resistor
-
-> ![ 4 band Resistor](https://circuitdigest.com/sites/default/files/inlineimages/resistor-color-code.png)
+## 4 band Resistor
 
 > ![Eq](https://circuitdigest.com/sites/default/files/inlineimages/resistance-calculation.png)
 
@@ -24,11 +22,7 @@
 | 3rd Band |  c   |      Multiplier       |
 | 4th Band |  d   |       Tolerance       |
 
-### 5 or 6 band Resistor
-
-> 5 and 6 band resitors have the same way in calcualtion ecpet for the latter having two additional values, which is Temperature Coefficient and Resistance Rate of Change in 1 C
-
-> ![5 band resistor](https://circuitdigest.com/sites/default/files/inlineimages/5-band-resistor-color-code.png)
+## 5 or 6 band Resistor
 
 > ![](https://circuitdigest.com/sites/default/files/inlineimages/5-band-resistance-calculati.png)
 
@@ -39,6 +33,8 @@
 |  3rd Band   |  c   | 3rd significant digit |
 |  4th Band   |  d   |      Multiplier       |
 |  5th Band   |  e   |       Tolerance       |
+
+> ### 5 and 6 band resitors have the same way in calcualtion ecpet for the latter having two additional values, which is Temperature Coefficient and Resistance Rate of Change in 1 C
 
 ## 2- Calculating the Resistance Rate of Change for 6 band Resistor
 
