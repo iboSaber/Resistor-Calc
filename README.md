@@ -9,3 +9,4 @@ Usnig user inputs, This C program  can calculate :
   Equations used :
   
   Calculating the Resistance Value : ![Resistor & Eq](https://circuitdigest.com/sites/default/files/inlineimages/resistor-color-code.png)
+                                     ![Eq](https://circuitdigest.com/sites/default/files/inlineimages/resistance-calculation.png)
