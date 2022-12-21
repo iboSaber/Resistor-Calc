@@ -1,6 +1,6 @@
 # Resistor_Calculator | Direnç Hesaplayıcı
 
-###Usnig user inputs, This C program  can calculate :
+##Usnig user inputs, This C program  can calculate :
   1- Resistance Value
   2- Tolerance Range
   3- Resistor Temperature Coefficient 
