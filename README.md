@@ -2,18 +2,15 @@
 
 ## Usnig user inputs, This C program can calculate :
 
-> 1- Resistance Value  
-> 2- Tolerance Range  
-> 3- Resistor Temperature Coefficient  
-> 4- Resistance Rate of Change in 1 C (Celsius )
+- Resistance Value
+- Tolerance Range
+- Resistance Rate of Change in 1 ºC (Celsius)
 
 # Equations used :
 
-## 1- Calculating the Resistance Value :
+## 1- Calculating the Resistance value :
 
-## 4 band Resistor
-
-> ![Eq](https://circuitdigest.com/sites/default/files/inlineimages/resistance-calculation.png)
+ <img align="right" width="300" height="50" src="https://circuitdigest.com/sites/default/files/inlineimages/resistance-calculation.png">
 
 |  4-Band  | Name |      Description      |
 | :------: | :--: | :-------------------: |
@@ -22,9 +19,7 @@
 | 3rd Band |  c   |      Multiplier       |
 | 4th Band |  d   |       Tolerance       |
 
-## 5 or 6 band Resistor
-
-> ![](https://circuitdigest.com/sites/default/files/inlineimages/5-band-resistance-calculati.png)
+<img align="right" width="300" height="50" src="https://circuitdigest.com/sites/default/files/inlineimages/5-band-resistance-calculati.png">
 
 | 5 or 6 Band | Name |      Description      |
 | :---------: | :--: | :-------------------: |
@@ -34,8 +29,18 @@
 |  4th Band   |  d   |      Multiplier       |
 |  5th Band   |  e   |       Tolerance       |
 
-> ### 5 and 6 band resitors have the same way in calcualtion ecpet for the latter having two additional values, which is Temperature Coefficient and Resistance Rate of Change in 1 C
+---
 
-## 2- Calculating the Resistance Rate of Change for 6 band Resistor
+## 2- Calculating the Tolerance Range
 
-`Resistance_Rate_of_Change` = Temperature_Coefficient \* Resistance_value / 1000000
+- `Tolerance Range` = (Resistance value) - (Tolerance Range) ---- (Resistance value) + (ToleranceRange)
+
+---
+
+## 3- Calculating the Resistance rate of change in 1 ºC for 6 Band Resistor
+
+- 6 Band Resitors have two additional values, which is Temperature Coefficient and Resistance rate of change in 1 ºC
+
+- `Temperature Coefficient` is a constant value choosen by the user
+
+- `Resistance Rate of Change` = (Temperature Coefficient) \* (Resistance value) / 1000000
