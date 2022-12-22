@@ -1,12 +1,15 @@
 # Resistor Calculator
 
-Usnig user inputs, This C program can calculate :
+- Hi Guys 🙋‍♂️, This C program use user inputs to calculate :
 
-1. Resistance Value.
-2. Tolerance Range.
-3. Resistance Rate of Change in 1 ºC (Celsius).
+  1. Resistance Value.
+  2. Tolerance Range.
+  3. Resistance Rate of Change in 1 ºC (Celsius).
+     <br />
+     <br />
 
-<br />
+- I wrote this code for my university side project and thought it may be useful to someone out there.
+  <br />
 
 # Equations used :
 
