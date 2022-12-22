@@ -1,4 +1,4 @@
-![pre](https://miro.com/app/board/uXjVPH2xx8s=/?moveToWidget=3458764541864976944&cot=10)
+![pre](https://drive.google.com/file/d/1LKauyNbX5vZ4vR9UZN0CULgC3tMU0tbf/view?usp=sharing)
 # Resistor Calculator
 
 - Hi Guys 🙋‍♂️, This C program use user inputs to calculate :
