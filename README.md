@@ -1,3 +1,4 @@
+![pre](https://miro.com/app/board/uXjVPH2xx8s=/?moveToWidget=3458764541864976944&cot=10)
 # Resistor Calculator
 
 - Hi Guys 🙋‍♂️, This C program use user inputs to calculate :
@@ -9,6 +10,8 @@
      <br />
 
 - I wrote this code for my university side project and thought it may be useful to someone out there.
+- The code print out a table of the colors with thier vlaues depending on the type of the vlaue that are being inputed  Also besids the colors there are        strating from 0 which the user will input to select a certian color This was to make the code eaiser and aviod converting it from string to numbers.
+- The table idea  was insipired by @ellyzabe8, Thanks Alot @ellyzabe8 for your efforet on your code I learned alot from it.
   <br />
 
 # Equations used :
