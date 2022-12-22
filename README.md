@@ -1,4 +1,4 @@
-![pre](https://drive.google.com/file/d/1LKauyNbX5vZ4vR9UZN0CULgC3tMU0tbf/view?usp=sharing)
+![pre](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c6685f6-0aec-42c4-98f7-b86ba69b7a79%2FUntitled.png?table=block&id=0423b50f-0c0e-456d-8bef-4e2fc51cf9f1&spaceId=954dbf57-3e9a-4cef-a54e-1a32a117b0fa&width=2000&userId=dd387179-deb5-4d86-8b12-c77b95e22ec1&cache=v2)
 # Resistor Calculator
 
 - Hi Guys 🙋‍♂️, This C program use user inputs to calculate :
