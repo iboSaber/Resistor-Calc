@@ -51,7 +51,7 @@
 
 ### 3. Calculating the Resistance rate of change in 1 ºC for 6 Band Resistor
 
-- 6 Band Resitors have two additional values, which is Temperature Coefficient and Resistance rate of change in 1 ºC.
+- 6 Band Resitors have two additional values, which is Temperature Coefficient and Resistance rate of change    in 1 ºC.
 
 - `Temperature Coefficient` is a constant value choosen by the user.
 
