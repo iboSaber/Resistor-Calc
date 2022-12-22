@@ -2,9 +2,9 @@
 
 Usnig user inputs, This C program can calculate :
 
-1. Resistance Value
-2. Tolerance Range
-3. Resistance Rate of Change in 1 ºC (Celsius)
+1. Resistance Value.
+2. Tolerance Range.
+3. Resistance Rate of Change in 1 ºC (Celsius).
 
 <br />
 
@@ -37,20 +37,16 @@ Usnig user inputs, This C program can calculate :
 
 ---
 
-<br />
-
 ### 2. Calculating the Tolerance Range
 
 - `Tolerance Range` = (Resistance value) - (Tolerance Range) ---- (Resistance value) + (ToleranceRange)
 
 ---
 
-<br />
+### 3. Calculating the Resistance rate of change in 1 ºC for 6 Band Resistor
 
-### 3. Calculating the Resistance rate of change in 1ºC for 6 Band Resistor
+- 6 Band Resitors have two additional values, which is Temperature Coefficient and Resistance rate of change in 1 ºC.
 
-- 6 Band Resitors have two additional values, which is Temperature Coefficient and Resistance rate of change in 1ºC
-
-- `Temperature Coefficient` is a constant value choosen by the user
+- `Temperature Coefficient` is a constant value choosen by the user.
 
 - `Resistance Rate of Change` = (Temperature Coefficient) \* (Resistance value) / 1000000
