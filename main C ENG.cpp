@@ -25,7 +25,7 @@ int main() {
 
 	char interface1[][30] = 
 {
-"\n      Multiplier         ",
+"\n      Multiplier        ",
 "\n*----------------------*",    
 "\n|10^0         0-BLACK|",   
 "\n|10^1         1-BROWN|",
